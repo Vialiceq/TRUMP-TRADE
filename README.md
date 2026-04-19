@@ -1,6 +1,6 @@
 # Trump-trade Skill
 
-An English skill based on trumpstruth.org/feed that aggregates Trumps public TRUTH Social posts (RSS). It provides educational financial market analysis in Evidence, Latest, Time modes, and Trump-style dialog.
+An skill based on trumpstruth.org/feed that aggregates Trumps public TRUTH Social posts (RSS). It provides educational financial market analysis in Evidence, Latest, Time modes, and Trump-style dialog.
 
 ## Features
 
